@@ -7,3 +7,4 @@ console.log(typeof valueInNumber)
 // "32ang" = o/p will be not a number
 // "deepti" = o/p will be not a number
 // true = o/p will be 1
+// for commit container config done
