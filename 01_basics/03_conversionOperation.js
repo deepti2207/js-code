@@ -8,3 +8,6 @@ console.log(typeof valueInNumber)
 // "deepti" = o/p will be not a number
 // true = o/p will be 1
 // for commit container config done
+
+console.log("1"+2+2);
+console.log(1+2+"2");
